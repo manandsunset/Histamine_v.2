@@ -1,0 +1,3 @@
+2017-06-15 00:46:49.686 Histamine_v.2[4216:1875474] Failed to connect (Vmax) outlet from (ViewController) to (NSTextField): missing setter or instance variable
+2017-06-15 00:46:49.773 Histamine_v.2[4216:1875474] Failed to connect (Vmin) outlet from (ViewController) to (NSTextField): missing setter or instance variable
+2017-06-15 00:46:49.774 Histamine_v.2[4216:1875474] Failed to connect (scan_rate) outlet from (ViewController) to (NSTextField): missing setter or instance variable
